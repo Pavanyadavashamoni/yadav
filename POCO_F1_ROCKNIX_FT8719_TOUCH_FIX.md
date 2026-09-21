@@ -1,5 +1,7 @@
 # POCO F1 ROCKNIX Touchscreen Fix — Tianma + FocalTech FT8719
 
+> Project alias: **p2k / p1**
+
 This is the troubleshooting record and final working fix developed for a Xiaomi Poco F1 (beryllium) using the unofficial ROCKNIX `sdm845-beryllium` port.
 
 ## Hardware
